@@ -1,0 +1,1 @@
+{"dependencies":{"viem":"^2.57.20"},"description":"PoC for Bull.family bug bounty report B-15: SDK deal() check() never inspects conditions — server swaps in a self-attested agreement and pays out without the arbiter (local Anvil only, no real funds).","name":"bull-poc-b15-deal-conditions","private":true,"type":"module","version":"1.0.0"}
